@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(15, 15, 15);
+}
+
+h1{
+    color: white;
+}
+
+div{
+    text-align: center;
+}
+
+button{
+    height: 2.2em;
+    width: 5em;
+    border-radius: 1em;
+    border: none;
+    color: white;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+.start{
+    background-color: rgb(23, 107, 23);
+}
+
+.pause{
+    background-color: rgb(68, 68, 68);
+}
+
+.stop{
+    background-color: rgb(148, 7, 7);
+}
